@@ -1,0 +1,29 @@
+{
+  "kind": "source-guide",
+  "source_head": "a76a856707f35676278534ead5fa424009ba5f77",
+  "source_tree": "33eb02cf083a558089bc5692d88e0aaac0b865ea",
+  "source_repository": "https://github.com/MdSadman2004/ZeroADC",
+  "nodes": [
+    {
+      "label": "Combined simulation",
+      "path": "combined_engine.py",
+      "detail": "Four variants, seeded events, and assumed energy costs."
+    },
+    {
+      "label": "AVR validation sketch",
+      "path": "arduino/cdm_hw_test/cdm_hw_test.ino",
+      "detail": "Fixed vectors, Timer1, and watchdog-reset checks."
+    },
+    {
+      "label": "Historical dossier",
+      "path": "VALIDATION_DOSSIER.md",
+      "detail": "Recorded campaign, research assumptions, and open gaps."
+    }
+  ],
+  "caption": "Source guide drawn from repository files; not a runtime screenshot or fresh benchmark.",
+  "generated_by": "render_guides.py",
+  "image_dimensions": [
+    1600,
+    960
+  ]
+}
